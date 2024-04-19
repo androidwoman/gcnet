@@ -1,0 +1,56 @@
+GCNET
+Deep learning
+Graph convolutional network
+Semi-supervised learning
+GCN
+Graph-based stock forecasting
+NASDAQ 
+Matthew’s Correlation Coefficient
+state of art algorithm
+
+
+Logistic Regression: A popular algorithm used for binary classification problems, where the goal is to predict one of two possible outcomes
+1
+.
+Back Propagation Neural Network: A type of neural network that is trained using the backpropagation algorithm, which adjusts the weights of the network to minimize the difference between the predicted and actual outputs
+1
+.
+Transformers: A type of neural network architecture that has achieved state-of-the-art performance in natural language processing tasks such as language translation and text summarization
+4
+.
+Convolutional Neural Networks (CNNs): A type of neural network that is commonly used for image classification tasks, where the goal is to predict the class of an image
+1
+.
+Generative Adversarial Networks (GANs): A type of neural network that is used for generating new data that is similar to a given dataset. GANs have been used for tasks such as image generation and data augmentation
+5
+.
+Support Vector Machines (SVMs): A popular algorithm used for classification and regression tasks. SVMs work by finding the hyperplane that best separates the data into different classes
+1
+.
+Random Forest: A type of ensemble learning algorithm that combines multiple decision trees to improve the accuracy of predictions. Random forests are commonly used for
+
+
+
+
+
+ correlation-based
+ Artificial neural network (ANN) and Support vector machine 
+
+
+Principal
+component analysis (PCA)
+Long Short-Term
+Memory (LSTM)
+Multilayer perceptron
+(MLP)
+attention mechanism
+Convolution neural network, CNN,
+ Park and Shin
+AutoRegressive Integrated Moving Average (ARIMA)
+label spreading algorithm
+node2vec algorithm
+
+
+association rule mining technique
+
+ Quadratic Discriminant Analysis
